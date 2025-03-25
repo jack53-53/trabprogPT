@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Anotações","folderPath":"folders/Anotações.yy","name":"Anotações","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +34,14 @@
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Controller","path":"objects/Controller/Controller.yy",},},
+    {"id":{"name":"ObjectButton1","path":"objects/ObjectButton1/ObjectButton1.yy",},},
+    {"id":{"name":"ObjectButton2","path":"objects/ObjectButton2/ObjectButton2.yy",},},
+    {"id":{"name":"ObjectButton3","path":"objects/ObjectButton3/ObjectButton3.yy",},},
+    {"id":{"name":"ObjectButton4","path":"objects/ObjectButton4/ObjectButton4.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"SpriteButton","path":"sprites/SpriteButton/SpriteButton.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
