@@ -1,5 +1,5 @@
 # trabprogPT
-fellipe, cardoso, doros e tobelambo \n
+fellipe, cardoso, doros e tobelambo
 como o jogo e o codigo funciona, o player vai clicar em uma das 4 opções que aparecem na tela, e vai ganhar pontos se acertar ou perder vidas se errar
 as perguntas são aleatorias juntamente com as possiveis respostas, a resposta certa tambem muda de lugar dentre os 4 pontos (falta fazer kk)
 atualmente, o sistema é suposto funcionar assim:
