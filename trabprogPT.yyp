@@ -42,6 +42,7 @@
     {"id":{"name":"ObjectButton4","path":"objects/ObjectButton4/ObjectButton4.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"SpriteButton","path":"sprites/SpriteButton/SpriteButton.yy",},},
+    {"id":{"name":"SpriteError","path":"sprites/SpriteError/SpriteError.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
