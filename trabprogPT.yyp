@@ -40,6 +40,7 @@
     {"id":{"name":"ObjectButton2","path":"objects/ObjectButton2/ObjectButton2.yy",},},
     {"id":{"name":"ObjectButton3","path":"objects/ObjectButton3/ObjectButton3.yy",},},
     {"id":{"name":"ObjectButton4","path":"objects/ObjectButton4/ObjectButton4.yy",},},
+    {"id":{"name":"TextBoxController","path":"objects/TextBoxController/TextBoxController.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"SpriteButton","path":"sprites/SpriteButton/SpriteButton.yy",},},
     {"id":{"name":"SpriteError","path":"sprites/SpriteError/SpriteError.yy",},},
