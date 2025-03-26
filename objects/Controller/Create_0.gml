@@ -1,4 +1,5 @@
 rodada = 0 
+draw_set_font(Font1)
 perguntas = ["BEM VINDO AO SHOW DO CONVENTO", "Por que que Blimunda tinha a alcunha Sete-luas?", "Por que que Baltasar tinha a alcunha Sete-sóis?", "Por qual motivo ele era considerado Megalómano?", "O que Padre Bartolomeu desejava criar?", "O que Domenico Scarlatti​ fez para ajudar Blimunda?", "Quem foi Sebastiana Maria de Jesus?", "Quem foi João Federico Ludovice?"]
 respotas1 = ["FACIL", "Podia ver o interior das pessoas", "Podia tocar no invisivel quando sol brilhava", "Porque era humilde", "Avião", "Ajuda a curar Blimunda levou-a para o medico", "Professora de Blimunda", "Arquiteto alemão responsável pelo projeto do Palácio da pena"]
 respotas2 = ["MEDIO", "Estudava as sete fazes da lua", "Podia ver o invisivel quando sol brilhava", "Porque gostava muito do ouro vindo do brasil", "Passarola", "Ajuda a curar Blimunda com um beijo na testa", "Pai de Blimunda", "Arquiteto alemão responsável pelo projeto do torre dos clerigos"]

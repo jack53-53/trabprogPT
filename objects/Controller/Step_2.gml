@@ -3,18 +3,18 @@ if(rodada == 0)
 {
 if(escolha == 1){
 	//modo facil
-	vidas = 5;
+	vidas = 6;
 	//rodada++;
 	//layer_background_change(background_id, SpriteError);
 }
 else if (escolha == 2){
 	//modo medio
-	vidas = 3;
+	vidas = 4;
 	//rodada++;
 }
 else if (escolha == 3){
 	draw_text(x,y, "MODO DIFICIL")
-	vidas = 1;
+	vidas = 2;
 	//rodada++;
 }
 else if (escolha == 4){
