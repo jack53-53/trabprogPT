@@ -13,21 +13,19 @@ else if (escolha == 2){
 	//rodada++;
 }
 else if (escolha == 3){
-	draw_text(x,y, "MODO DIFICIL")
 	vidas = 2;
 	//rodada++;
 }
 else if (escolha == 4){
 	//ver placar
-	draw_text(x,y, "placar")
 	//rodada++;
 }
 }
-if(escolha == respostacerta[rodada]){
+if(escolha == perguntas[rodada].respostaCerta){
 	rodada++;
 	pontos++;
 }
-else if (escolha != respostacerta[rodada] && escolha != 0){
+else if (escolha != perguntas[rodada].respostaCerta && escolha != 0){
 	rodada++;
 	pontos--;
 	vidas--;
