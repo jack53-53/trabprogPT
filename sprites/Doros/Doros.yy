@@ -15,6 +15,8 @@
     {"$GMSpriteFrame":"","%Name":"bdc4787a-6bf7-4be1-849b-9e1f56fa98c8","name":"bdc4787a-6bf7-4be1-849b-9e1f56fa98c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"d6cb4460-47c2-488e-967f-d25aa3368e57","name":"d6cb4460-47c2-488e-967f-d25aa3368e57","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"9644a7f4-0105-4d3f-a898-a3095deb09b4","name":"9644a7f4-0105-4d3f-a898-a3095deb09b4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"42564151-6ca1-403d-9646-1448f1fd62ed","name":"42564151-6ca1-403d-9646-1448f1fd62ed","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"619859b1-2bc4-4690-9203-a2b62bb1a30b","name":"619859b1-2bc4-4690-9203-a2b62bb1a30b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -51,7 +53,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":5.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -79,6 +81,12 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9644a7f4-0105-4d3f-a898-a3095deb09b4","path":"sprites/Doros/Doros.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1c079780-50d8-4150-a63f-da5d1d121f7c","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"42564151-6ca1-403d-9646-1448f1fd62ed","path":"sprites/Doros/Doros.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"487bd210-11e8-4ce6-ba42-3863804b92e5","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"619859b1-2bc4-4690-9203-a2b62bb1a30b","path":"sprites/Doros/Doros.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"85788113-34cd-49bf-83da-fc67ec77c065","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
