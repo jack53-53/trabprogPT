@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Doros",
+  "%Name":"Televisao",
   "bboxMode":0,
   "bbox_bottom":88,
   "bbox_left":0,
@@ -12,17 +12,17 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4c7488cb-3255-4ba4-a43a-aeab4d023b3e","name":"4c7488cb-3255-4ba4-a43a-aeab4d023b3e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"619859b1-2bc4-4690-9203-a2b62bb1a30b","name":"619859b1-2bc4-4690-9203-a2b62bb1a30b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"69dd8adb-05b6-4b19-9ca7-3b4161c7afda","name":"69dd8adb-05b6-4b19-9ca7-3b4161c7afda","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"88f13f97-66b2-4151-9afe-a6d41093584b","name":"88f13f97-66b2-4151-9afe-a6d41093584b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":90,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1120abb1-d6fb-41cd-ac65-8bc1ee0c30af","blendMode":0,"displayName":"default","isLocked":false,"name":"1120abb1-d6fb-41cd-ac65-8bc1ee0c30af","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"56849b40-1237-4fed-8f1b-48e4ee56d192","blendMode":0,"displayName":"default","isLocked":false,"name":"56849b40-1237-4fed-8f1b-48e4ee56d192","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Doros",
+  "name":"Televisao",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Doros",
+    "%Name":"Televisao",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,9 +58,9 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Doros",
+    "name":"Televisao",
     "playback":1,
-    "playbackSpeed":5.0,
+    "playbackSpeed":2.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -70,11 +70,11 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4c7488cb-3255-4ba4-a43a-aeab4d023b3e","path":"sprites/Doros/Doros.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e8d53ba5-8ed4-4e12-bfc7-3a723f7a2184","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"69dd8adb-05b6-4b19-9ca7-3b4161c7afda","path":"sprites/Televisao/Televisao.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d11654dc-20ab-4f61-ac41-3d33abf9d03a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"619859b1-2bc4-4690-9203-a2b62bb1a30b","path":"sprites/Doros/Doros.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"85788113-34cd-49bf-83da-fc67ec77c065","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"88f13f97-66b2-4151-9afe-a6d41093584b","path":"sprites/Televisao/Televisao.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"efbcff27-4339-4a26-880e-1bd5caeb385e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
