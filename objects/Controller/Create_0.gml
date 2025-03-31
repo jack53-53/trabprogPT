@@ -122,6 +122,12 @@ p14.resposta3 = "Estarem sempre em brigas e a serem reprimidos e deliciarem-se c
 p14.resposta4 = "Não tentarem ir contra o governo e a igreja";
 p14.respostaCerta = 4;
 
-perguntas = [p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14]
-perguntas = array_shuffle(perguntas);
+perguntas = [p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14];
+    var len = array_length(perguntas);
+    for (var i = len - 1; i > 1; i--) {
+        var j = irandom_range(1, i);
+        var temp = perguntas[i];
+        perguntas[i] = perguntas[j];
+        perguntas[j] = temp;
+    }
 pontos = 1;
