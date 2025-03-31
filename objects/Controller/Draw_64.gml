@@ -9,3 +9,6 @@ draw_text(ObjectButton2.x, ObjectButton2.y, perguntas[rodada].resposta2);
 draw_text(ObjectButton3.x, ObjectButton3.y, perguntas[rodada].resposta3);
 draw_text(ObjectButton4.x, ObjectButton4.y, perguntas[rodada].resposta4);
 }
+else{
+
+}

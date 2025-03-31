@@ -30,3 +30,10 @@ else if (escolha != perguntas[rodada].respostaCerta && escolha != 0){
 	pontos--;
 	vidas--;
 }
+if(vidas == 0){
+	//room_goto(Derrota);
+	game_end();
+}
+if(rodada == 9){
+	//room_goto(vitoria);
+}
