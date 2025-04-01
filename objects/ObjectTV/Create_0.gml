@@ -1,0 +1,1 @@
+vidasatual = Controller.vidas;
